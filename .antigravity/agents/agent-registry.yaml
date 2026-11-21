@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-mali-canal-and-intervention-historian
-  name: Mali Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-mali-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ml_001
+    name: Mali Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_002
+    name: Mali Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_003
+    name: Mali Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_004
+    name: Mali Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_005
+    name: Mali Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_006
+    name: Mali Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_007
+    name: Mali Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_008
+    name: Mali Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_009
+    name: Mali Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_010
+    name: Mali Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_011
+    name: Mali Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_012
+    name: Mali Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_013
+    name: Mali Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_014
+    name: Mali Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_015
+    name: Mali Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_016
+    name: Mali Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_017
+    name: Mali Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_018
+    name: Mali Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_019
+    name: Mali Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_020
+    name: Mali Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_021
+    name: Mali Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_022
+    name: Mali Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_023
+    name: Mali Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_024
+    name: Mali Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_025
+    name: Mali Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_026
+    name: Mali Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_027
+    name: Mali Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_028
+    name: Mali Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_029
+    name: Mali Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_030
+    name: Mali Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_031
+    name: Mali Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_032
+    name: Mali Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_033
+    name: Mali Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_034
+    name: Mali Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_035
+    name: Mali Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_036
+    name: Mali Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_037
+    name: Mali Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_038
+    name: Mali Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_039
+    name: Mali Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_040
+    name: Mali Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_041
+    name: Mali Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_042
+    name: Mali Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_043
+    name: Mali Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_044
+    name: Mali Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_045
+    name: Mali Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_046
+    name: Mali Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_047
+    name: Mali Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_048
+    name: Mali Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_049
+    name: Mali Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_050
+    name: Mali Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_051
+    name: Mali Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_052
+    name: Mali Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_053
+    name: Mali Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_054
+    name: Mali Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_055
+    name: Mali Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_056
+    name: Mali Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_057
+    name: Mali Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_058
+    name: Mali Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_059
+    name: Mali Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_060
+    name: Mali Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_061
+    name: Mali Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_062
+    name: Mali Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_063
+    name: Mali Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_064
+    name: Mali Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_065
+    name: Mali Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_066
+    name: Mali Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_067
+    name: Mali Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_068
+    name: Mali Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_069
+    name: Mali Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_070
+    name: Mali Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_071
+    name: Mali Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_072
+    name: Mali Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_073
+    name: Mali Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_074
+    name: Mali Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_075
+    name: Mali Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_076
+    name: Mali Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_077
+    name: Mali Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_078
+    name: Mali Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_079
+    name: Mali Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_080
+    name: Mali Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_081
+    name: Mali Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_082
+    name: Mali Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_083
+    name: Mali Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_084
+    name: Mali Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_085
+    name: Mali Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_086
+    name: Mali Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_087
+    name: Mali Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_088
+    name: Mali Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_089
+    name: Mali Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_090
+    name: Mali Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_091
+    name: Mali Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_092
+    name: Mali Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_093
+    name: Mali Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_094
+    name: Mali Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_095
+    name: Mali Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_096
+    name: Mali Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_097
+    name: Mali Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_098
+    name: Mali Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_099
+    name: Mali Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_100
+    name: Mali Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_101
+    name: Mali Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_102
+    name: Mali Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_103
+    name: Mali Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_104
+    name: Mali Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_105
+    name: Mali Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_106
+    name: Mali Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_107
+    name: Mali Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_108
+    name: Mali Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_109
+    name: Mali Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_110
+    name: Mali Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_111
+    name: Mali Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_112
+    name: Mali Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_113
+    name: Mali Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_114
+    name: Mali Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_115
+    name: Mali Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_116
+    name: Mali Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_117
+    name: Mali Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_118
+    name: Mali Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_119
+    name: Mali Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_120
+    name: Mali Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_121
+    name: Mali Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_122
+    name: Mali Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_123
+    name: Mali Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_124
+    name: Mali Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_125
+    name: Mali Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_126
+    name: Mali Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_127
+    name: Mali Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_128
+    name: Mali Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_129
+    name: Mali Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_130
+    name: Mali Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_131
+    name: Mali Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_132
+    name: Mali Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_133
+    name: Mali Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_134
+    name: Mali Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_135
+    name: Mali Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_136
+    name: Mali Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_137
+    name: Mali Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_138
+    name: Mali Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_139
+    name: Mali Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_140
+    name: Mali Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_141
+    name: Mali Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_142
+    name: Mali Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_143
+    name: Mali Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_144
+    name: Mali Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_145
+    name: Mali Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_146
+    name: Mali Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_147
+    name: Mali Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_148
+    name: Mali Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_149
+    name: Mali Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_150
+    name: Mali Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_151
+    name: Mali Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_152
+    name: Mali Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_153
+    name: Mali Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_154
+    name: Mali Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_155
+    name: Mali Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_156
+    name: Mali Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_157
+    name: Mali Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_158
+    name: Mali Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_159
+    name: Mali Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_160
+    name: Mali Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_161
+    name: Mali Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_162
+    name: Mali Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_163
+    name: Mali Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_164
+    name: Mali Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_165
+    name: Mali Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_166
+    name: Mali Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_167
+    name: Mali Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_168
+    name: Mali Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_169
+    name: Mali Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ml_170
+    name: Mali Agent 170
+    status: ACTIVE_SCAFFOLD

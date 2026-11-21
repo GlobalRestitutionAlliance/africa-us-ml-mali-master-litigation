@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: malian-restitution-roadmap-and-qsf-trust-execution
-  name: Malian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/malian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ml_001
+    name: Mali Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_002
+    name: Mali Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_003
+    name: Mali Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_004
+    name: Mali Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_005
+    name: Mali Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_006
+    name: Mali Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_007
+    name: Mali Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_008
+    name: Mali Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_009
+    name: Mali Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_010
+    name: Mali Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_011
+    name: Mali Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_012
+    name: Mali Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_013
+    name: Mali Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_014
+    name: Mali Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_015
+    name: Mali Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_016
+    name: Mali Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_017
+    name: Mali Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_018
+    name: Mali Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_019
+    name: Mali Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_020
+    name: Mali Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_021
+    name: Mali Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_022
+    name: Mali Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_023
+    name: Mali Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_024
+    name: Mali Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_025
+    name: Mali Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_026
+    name: Mali Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_027
+    name: Mali Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_028
+    name: Mali Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_029
+    name: Mali Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_030
+    name: Mali Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_031
+    name: Mali Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_032
+    name: Mali Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_033
+    name: Mali Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_034
+    name: Mali Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_035
+    name: Mali Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_036
+    name: Mali Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_037
+    name: Mali Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_038
+    name: Mali Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_039
+    name: Mali Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_040
+    name: Mali Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_041
+    name: Mali Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_042
+    name: Mali Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_043
+    name: Mali Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_044
+    name: Mali Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_045
+    name: Mali Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_046
+    name: Mali Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_047
+    name: Mali Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_048
+    name: Mali Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_049
+    name: Mali Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_050
+    name: Mali Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_051
+    name: Mali Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_052
+    name: Mali Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_053
+    name: Mali Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_054
+    name: Mali Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_055
+    name: Mali Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_056
+    name: Mali Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_057
+    name: Mali Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_058
+    name: Mali Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_059
+    name: Mali Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_060
+    name: Mali Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_061
+    name: Mali Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_062
+    name: Mali Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_063
+    name: Mali Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_064
+    name: Mali Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_065
+    name: Mali Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_066
+    name: Mali Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_067
+    name: Mali Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_068
+    name: Mali Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_069
+    name: Mali Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_070
+    name: Mali Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_071
+    name: Mali Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_072
+    name: Mali Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_073
+    name: Mali Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_074
+    name: Mali Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_075
+    name: Mali Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_076
+    name: Mali Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_077
+    name: Mali Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_078
+    name: Mali Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_079
+    name: Mali Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_080
+    name: Mali Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_081
+    name: Mali Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_082
+    name: Mali Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_083
+    name: Mali Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_084
+    name: Mali Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_085
+    name: Mali Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_086
+    name: Mali Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_087
+    name: Mali Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_088
+    name: Mali Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_089
+    name: Mali Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_090
+    name: Mali Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_091
+    name: Mali Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_092
+    name: Mali Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_093
+    name: Mali Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_094
+    name: Mali Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_095
+    name: Mali Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_096
+    name: Mali Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_097
+    name: Mali Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_098
+    name: Mali Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_099
+    name: Mali Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_100
+    name: Mali Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_101
+    name: Mali Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_102
+    name: Mali Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_103
+    name: Mali Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_104
+    name: Mali Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_105
+    name: Mali Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_106
+    name: Mali Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_107
+    name: Mali Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_108
+    name: Mali Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_109
+    name: Mali Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_110
+    name: Mali Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_111
+    name: Mali Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_112
+    name: Mali Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_113
+    name: Mali Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_114
+    name: Mali Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_115
+    name: Mali Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_116
+    name: Mali Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_117
+    name: Mali Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_118
+    name: Mali Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_119
+    name: Mali Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_120
+    name: Mali Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_121
+    name: Mali Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_122
+    name: Mali Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_123
+    name: Mali Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_124
+    name: Mali Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_125
+    name: Mali Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_126
+    name: Mali Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_127
+    name: Mali Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_128
+    name: Mali Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_129
+    name: Mali Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_130
+    name: Mali Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_131
+    name: Mali Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_132
+    name: Mali Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_133
+    name: Mali Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_134
+    name: Mali Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_135
+    name: Mali Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_136
+    name: Mali Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_137
+    name: Mali Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_138
+    name: Mali Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_139
+    name: Mali Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_140
+    name: Mali Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_141
+    name: Mali Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_142
+    name: Mali Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_143
+    name: Mali Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_144
+    name: Mali Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_145
+    name: Mali Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_146
+    name: Mali Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_147
+    name: Mali Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_148
+    name: Mali Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_149
+    name: Mali Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_150
+    name: Mali Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_151
+    name: Mali Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_152
+    name: Mali Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_153
+    name: Mali Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_154
+    name: Mali Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_155
+    name: Mali Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_156
+    name: Mali Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_157
+    name: Mali Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_158
+    name: Mali Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_159
+    name: Mali Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_160
+    name: Mali Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_161
+    name: Mali Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_162
+    name: Mali Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_163
+    name: Mali Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_164
+    name: Mali Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_165
+    name: Mali Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_166
+    name: Mali Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_167
+    name: Mali Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_168
+    name: Mali Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_169
+    name: Mali Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_170
+    name: Mali Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_171
+    name: Mali Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_172
+    name: Mali Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_173
+    name: Mali Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_174
+    name: Mali Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_175
+    name: Mali Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_176
+    name: Mali Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_177
+    name: Mali Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_178
+    name: Mali Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_179
+    name: Mali Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_180
+    name: Mali Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_181
+    name: Mali Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_182
+    name: Mali Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_183
+    name: Mali Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_184
+    name: Mali Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_185
+    name: Mali Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_186
+    name: Mali Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_187
+    name: Mali Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_188
+    name: Mali Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_189
+    name: Mali Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_190
+    name: Mali Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_191
+    name: Mali Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_192
+    name: Mali Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_193
+    name: Mali Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_194
+    name: Mali Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_195
+    name: Mali Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_196
+    name: Mali Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_197
+    name: Mali Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_198
+    name: Mali Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_199
+    name: Mali Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_200
+    name: Mali Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_201
+    name: Mali Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_202
+    name: Mali Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_203
+    name: Mali Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_204
+    name: Mali Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_205
+    name: Mali Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_206
+    name: Mali Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_207
+    name: Mali Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_208
+    name: Mali Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_209
+    name: Mali Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_210
+    name: Mali Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_211
+    name: Mali Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_212
+    name: Mali Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_213
+    name: Mali Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_214
+    name: Mali Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_215
+    name: Mali Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_216
+    name: Mali Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_217
+    name: Mali Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_218
+    name: Mali Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_219
+    name: Mali Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_220
+    name: Mali Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_221
+    name: Mali Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_222
+    name: Mali Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_223
+    name: Mali Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_224
+    name: Mali Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_225
+    name: Mali Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_226
+    name: Mali Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_227
+    name: Mali Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_228
+    name: Mali Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_229
+    name: Mali Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_230
+    name: Mali Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_231
+    name: Mali Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_232
+    name: Mali Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_233
+    name: Mali Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_234
+    name: Mali Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_235
+    name: Mali Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_236
+    name: Mali Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_237
+    name: Mali Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_238
+    name: Mali Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_239
+    name: Mali Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_240
+    name: Mali Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_241
+    name: Mali Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_242
+    name: Mali Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_243
+    name: Mali Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_244
+    name: Mali Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_245
+    name: Mali Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_246
+    name: Mali Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_247
+    name: Mali Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_248
+    name: Mali Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_249
+    name: Mali Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_250
+    name: Mali Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_251
+    name: Mali Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ml_252
+    name: Mali Skill 252
+    status: ACTIVE_SCAFFOLD
