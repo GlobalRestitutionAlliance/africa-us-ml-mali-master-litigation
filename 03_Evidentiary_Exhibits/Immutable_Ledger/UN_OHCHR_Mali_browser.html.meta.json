@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/mali",
+  "final_url": "https://www.ohchr.org/en/countries/mali",
+  "title": "UN OHCHR Mali",
+  "fetched_at": "2026-11-23T06:53:45.585953Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "82be090716ddc9c6a9d4cbf47a001a353af9cbeaa906e6bea737765ab382d7de",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}

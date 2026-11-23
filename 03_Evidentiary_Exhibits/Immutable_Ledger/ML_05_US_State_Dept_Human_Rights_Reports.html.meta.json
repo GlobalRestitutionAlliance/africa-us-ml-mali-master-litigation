@@ -28,5 +28,6 @@
     "X-Cache": "Hit from cloudfront",
     "X-Amz-Cf-Pop": "MIA50-P5",
     "X-Amz-Cf-Id": "MSNov4aVOptom0sD0pCgkEAz8-7xsd0oF0v8RV4lCZ_usY7AJGcARQ=="
-  }
+  },
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
 }
